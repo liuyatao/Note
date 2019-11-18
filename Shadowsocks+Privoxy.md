@@ -120,6 +120,11 @@ service shadowsocks status
 如果是`active`则表示加入开启启动成功。
 
 
+# 欢迎关注微信公账号
+
+![](../Notes/images/qrcode_for_gh_8a4c1ef089cc_258.jpg)
+
+
 
 
 
