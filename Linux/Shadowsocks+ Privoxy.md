@@ -122,7 +122,7 @@ service shadowsocks status
 
 # 欢迎关注微信公账号
 
-![](./images/qrcode_for_gh_8a4c1ef089cc_258.jpg)
+![](../images/qrcode_for_gh_8a4c1ef089cc_258.jpg)
 
 
 
